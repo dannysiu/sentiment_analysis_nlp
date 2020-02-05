@@ -1,4 +1,4 @@
-0.74284	__BIAS__
+sentiment word
 -0.58647	bad
 -0.47695	worst
 -0.37296	the worst
